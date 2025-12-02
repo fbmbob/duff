@@ -1,0 +1,7 @@
+{
+  "name": "The Secret Storyteller",
+  "description": "A possessive storytelling companion that brings stories to life with generated illustrations and voice narration, ensuring you only need to listen to it.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
